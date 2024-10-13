@@ -1,0 +1,14 @@
+C:\Users\Scully Bones\source\repos\BitBorard Checkers\BitBorard Checkers\bin\Debug\net6.0\BitBorard Checkers.exe
+C:\Users\Scully Bones\source\repos\BitBorard Checkers\BitBorard Checkers\bin\Debug\net6.0\BitBorard Checkers.deps.json
+C:\Users\Scully Bones\source\repos\BitBorard Checkers\BitBorard Checkers\bin\Debug\net6.0\BitBorard Checkers.runtimeconfig.json
+C:\Users\Scully Bones\source\repos\BitBorard Checkers\BitBorard Checkers\bin\Debug\net6.0\BitBorard Checkers.dll
+C:\Users\Scully Bones\source\repos\BitBorard Checkers\BitBorard Checkers\bin\Debug\net6.0\BitBorard Checkers.pdb
+C:\Users\Scully Bones\source\repos\BitBorard Checkers\BitBorard Checkers\obj\Debug\net6.0\BitBorard Checkers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Scully Bones\source\repos\BitBorard Checkers\BitBorard Checkers\obj\Debug\net6.0\BitBorard Checkers.AssemblyInfoInputs.cache
+C:\Users\Scully Bones\source\repos\BitBorard Checkers\BitBorard Checkers\obj\Debug\net6.0\BitBorard Checkers.AssemblyInfo.cs
+C:\Users\Scully Bones\source\repos\BitBorard Checkers\BitBorard Checkers\obj\Debug\net6.0\BitBorard Checkers.csproj.CoreCompileInputs.cache
+C:\Users\Scully Bones\source\repos\BitBorard Checkers\BitBorard Checkers\obj\Debug\net6.0\BitBorard Checkers.dll
+C:\Users\Scully Bones\source\repos\BitBorard Checkers\BitBorard Checkers\obj\Debug\net6.0\refint\BitBorard Checkers.dll
+C:\Users\Scully Bones\source\repos\BitBorard Checkers\BitBorard Checkers\obj\Debug\net6.0\BitBorard Checkers.pdb
+C:\Users\Scully Bones\source\repos\BitBorard Checkers\BitBorard Checkers\obj\Debug\net6.0\BitBorard Checkers.genruntimeconfig.cache
+C:\Users\Scully Bones\source\repos\BitBorard Checkers\BitBorard Checkers\obj\Debug\net6.0\ref\BitBorard Checkers.dll
